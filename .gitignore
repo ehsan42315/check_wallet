@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+config/secrets.json
+AppDir/
+*.deb
+*.AppImage
