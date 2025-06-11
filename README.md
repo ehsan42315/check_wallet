@@ -10,12 +10,12 @@ A cross-chain CLI wallet tool for checking balances in:
 ## 📦 Install
 
 ```bash
-git clone https://github.com/you/checkwallet.git
+git clone https://github.com/ehsan42315/check_wallet.git
 cd checkwallet
 bash scripts/install.sh
 
 # Check ETH balance on Ethereum Mainnet
-python checkwallet.py --coin ETH --chain ethereum --address 0xAbC...
+python3 checkwallet.py --coin ETH --chain ethereum --address 0xAbC...
 
 # Check USDT ERC-20 on BSC
 python checkwallet.py --coin USDT --chain bsc \
